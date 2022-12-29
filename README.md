@@ -39,3 +39,9 @@ Years later I was finishing my studies as a flight dispatcher, where I encounter
 
 In this way I have learned many incredible technologies that have marked my path and motivate me daily to improve. I have a desire to grow and grow, it is what makes me happiest.
 
+<h5 align="center">
+  My stats since 12/29/2022
+</h5>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aerodiduch&layout=compact&theme=dracula&hide_title=true&hide=csv,mdx,text,git,markdown,scss,ini,other,bash" alt="wakatime-stats-failed"  />
+</p>
