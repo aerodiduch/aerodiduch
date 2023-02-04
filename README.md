@@ -27,7 +27,9 @@ I am a backend developer who loves to solve day to day problems and expand my kn
 
 Aerobot is a project that seeks to have information just one message away. It is a chatbot for WhatsApp to help all actors in the aeronautical field to fly safer and be better informed. It is a project that marked my path as a developer since I started it when I started programming and it has led me to learn an impressive variety of technologies. Today it has more than 100 active monthly users and more than 500 messages per day. 
 
-When you are in the air flying you don't always have the privilege of having a mobile signal and being able to access three or four different web pages to get a certain piece of information. Aerobot solves this problem, because with just one message you can get everything you need.
+When you are in the air flying you don't always have the privilege of having a mobile signal and being able to access three or four different web pages to get a certain piece of information. Aerobot solves this problem, because with just one message you can get everything you need. 
+
+You can read more about this project [here](https://aerobot.com.ar)
 
 #
 
