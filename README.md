@@ -33,14 +33,6 @@ You can read more about this project [here](https://aerobot.com.ar)
 
 #
 
-<h5 align="center">
-  My stats since 12/29/2022
-</h5>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aerodiduch&layout=compact&theme=dracula&hide_title=true&hide=csv,mdx,text,git,markdown,scss,ini,other,bash" alt="wakatime-stats-failed"  />
-</p>
-
-#
 
 <details>
  <summary><h3>✈ My journey</h3></summary>
