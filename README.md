@@ -41,5 +41,8 @@ You can read more about this project [here](https://aerobot.com.ar)
 Years later I was finishing my studies as a flight dispatcher, where I encountered many tasks that required continuous calculation, weight and balance, runway calculations, and so on. It was at this point that I started programming seriously and my first project was a small calculator to solve these problems. From there, no one could stop me.
 
 In this way I have learned many incredible technologies that have marked my path and motivate me daily to improve. I have a desire to grow and grow, it is what makes me happiest.
+ 
+ <summary><h3>✈ Contact me</h3></summary>
+    You can contact me via [LinkedIn](https://www.linkedin.com/in/federico-perez-diduch/)
 
 
