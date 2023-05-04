@@ -48,7 +48,7 @@ In this way I have learned many incredible technologies that have marked my path
 
 <details>
  <summary><h3>✈ Contact me</h3></summary>
-For inquirires, work, or whatever you need you can reach me in [LinkedIn](https://www.linkedin.com/in/federico-perez-diduch/?locale=en_US)
+For inquirires, work, or whatever you need you can reach me in <a href="https://www.linkedin.com/in/federico-perez-diduch/?locale=en_US">LinkedIn</a>
  
 </details>
 
