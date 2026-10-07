@@ -1,54 +1,71 @@
-# 🌍 aerodiduch
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <img src="assets/header-light.svg" width="100%" alt="Federico Perez Diduch. Private pilot, flight dispatcher, backend developer. Route: SA:MP, dispatch, first calculator, Aerobot, Autopilot" />
+</picture>
 
-**`Trouble-Solver`**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=24757B&center=true&vCenter=true&width=520&lines=Private+pilot;Flight+dispatcher;Backend+developer;Fiu%2C+fiu!" alt="Private pilot. Flight dispatcher. Backend developer. Fiu, fiu!" />
+</p>
 
-I am a backend developer who loves to solve day to day problems and expand my knowledge. What motivated me to start programming is that I am also a private pilot and flight dispatcher, which led me to optimize processes to make the operation more efficient. As of today, my biggest project is Aerobot, a WhatsApp chatbot focused on providing aeronautical information quickly and efficiently.
+<p align="center">
+  <a href="https://aerobot.com.ar"><img src="https://img.shields.io/badge/aerobot.com.ar-24757B?style=for-the-badge&logo=whatsapp&logoColor=white" alt="aerobot.com.ar" /></a>
+  <a href="https://autopilot.aerobot.com.ar"><img src="https://img.shields.io/badge/autopilot.aerobot.com.ar-0F172A?style=for-the-badge" alt="autopilot.aerobot.com.ar" /></a>
+  <a href="https://www.linkedin.com/in/federico-perez-diduch/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+</p>
 
----
+I'm a private pilot and flight dispatcher who became a backend developer. Dispatch school was full of the same calculations over and over, weight and balance, runway numbers, so my first real program was a small calculator to do them for me. From there, no one could stop me.
 
-### 🧰 My toolbox
+## What I'm building
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />      
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://aerobot.com.ar"><img src="assets/aerobot.png" alt="Aerobot: METAR, TAF and NOTAM on WhatsApp" /></a>
+      <br /><b><a href="https://aerobot.com.ar">Aerobot</a></b><br />
+      In the air you don't always have signal, and you can't open three or four websites to find one piece of information. With Aerobot, one WhatsApp message gets you what you need.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://autopilot.aerobot.com.ar"><img src="assets/autopilot.png" alt="Autopilot by Aerobot: the dispatch platform for general and business aviation" /></a>
+      <br /><b><a href="https://autopilot.aerobot.com.ar">Autopilot by Aerobot</a></b><br />
+      The dispatch platform for general and business aviation: ICAO flight plans, navlog and briefing in one place.
+    </td>
+  </tr>
+</table>
+
+## Open source
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aerodiduch/phone-joystick"><img src="https://github.com/aerodiduch/phone-joystick/raw/main/docs/cover.jpg" alt="Phone Joystick" /></a>
+      <br /><b><a href="https://github.com/aerodiduch/phone-joystick">phone-joystick</a></b><br />
+      Your phone as a gamepad for your laptop. I built it to play PES 6 at work.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aerodiduch/goflight-mcp-pro-msfs"><img src="https://github.com/aerodiduch/goflight-mcp-pro-msfs/raw/main/docs/cover.jpg" alt="GoFlight MCP Pro for MSFS" /></a>
+      <br /><b><a href="https://github.com/aerodiduch/goflight-mcp-pro-msfs">goflight-mcp-pro-msfs</a></b><br />
+      A friend passed me his GoFlight MCP Pro. GoFlight is gone, and the only tool for MSFS 2024 left the PMDG 737's displays dark, so I wrote my own bridge.
+    </td>
+  </tr>
+</table>
+
+Also: [garmin-flights](https://github.com/aerodiduch/garmin-flights) pulls the flights out of a Garmin Aera 500 and shows them in Google Earth.
+
+## Toolbox
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cgo%2Cts%2Creact%2Cfastapi%2Cmongodb%2Credis%2Cdocker%2Clinux%2Cgit&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python%2Cgo%2Cts%2Creact%2Cfastapi%2Cmongodb%2Credis%2Cdocker%2Clinux%2Cgit&theme=light" alt="Python, Go, TypeScript, React, FastAPI, MongoDB, Redis, Docker, Linux, Git" />
+</picture>
+
+<details>
+<summary><b>✈️ How it started</b></summary>
 <br />
 
-#
+As much as it sounds like a joke, what sparked my love for programming was Grand Theft Auto: San Andreas. Its multiplayer, SA:MP, was huge back then, and the servers ran on a language called Pawn. At ten I liked to play around with those files, paste in pieces of code and see what they did.
 
-### Aerobot
+Years later I was finishing my studies as a flight dispatcher, full of tasks that needed the same calculations over and over: weight and balance, runway calculations and so on. That's when I started programming seriously, and my first project was a small calculator for those problems. From there, no one could stop me.
 
-Aerobot is a project that seeks to have information just one message away. It is a chatbot for WhatsApp to help all actors in the aeronautical field to fly safer and be better informed. It is a project that marked my path as a developer since I started it when I started programming and it has led me to learn an impressive variety of technologies. Today it has more than 100 active monthly users and more than 500 messages per day. 
-
-When you are in the air flying you don't always have the privilege of having a mobile signal and being able to access three or four different web pages to get a certain piece of information. Aerobot solves this problem, because with just one message you can get everything you need. 
-
-You can read more about this project [here](https://aerobot.com.ar)
-
-#
-
-
-<details>
- <summary><h3>✈ My journey</h3></summary>
-   As much as it sounds like a joke, what sparked my spark for programming was Grand Theft Auto: San Andreas when I was young. At that time it was very popular to play its multiplayer version on servers, the famous SA:MP. The servers ran in a language called PAWNO and when I was 10 years old I liked to play around with the files and even encouraged myself to insert pieces of code and see what they did. I like to be efficient and solve real life problems with hard solutions. 
-
-Years later I was finishing my studies as a flight dispatcher, where I encountered many tasks that required continuous calculation, weight and balance, runway calculations, and so on. It was at this point that I started programming seriously and my first project was a small calculator to solve these problems. From there, no one could stop me.
-
-In this way I have learned many incredible technologies that have marked my path and motivate me daily to improve. I have a desire to grow and grow, it is what makes me happiest.
+I like being efficient and solving real-life problems. Every project has taught me something new, and I want to keep growing; it's what makes me happiest.
 
 </details>
-
-#
-
-<details>
- <summary><h3>✉️ Contact me</h3></summary>
-For inquirires, work, or whatever you need you can reach me in <a href="https://www.linkedin.com/in/federico-perez-diduch/?locale=en_US">LinkedIn</a>
- 
-</details>
-
